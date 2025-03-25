@@ -1,7 +1,7 @@
 # Ayuda Ecommerce
 
 👋 Hola y bienvenido al repositorio de código de AyudaEcommerce.
-   - Aquí podrás encontrar el código fuente de algunos desarrollos, módulos y plugins, de los que publicamos muy bien explicados [en la web](https://ayudaecommerce.lazcano.com.ar).
+   - Aquí podrás encontrar el código fuente de algunos desarrollos, módulos y plugins, los publicamos muy bien explicados [en la web](https://ayudaecommerce.lazcano.com.ar).
    - Si tienes conocimiento en código, y quieres hacer un aporte, puedes hacer un issue o un PR.
    - Recuerda revisar las [condiciones de uso y licencias][docs-licencias.md], para aprovecharlos al máximo.
 
@@ -13,7 +13,7 @@
 
     Cada "repositorio" y/o script, tiene un archivo README.md (traducido sería "léeme"), y en otros casos de código más pequeño, tiene una explicación al iniciar el archivo en formato de comentario.
 
-📝 ¿Qué podés encontrar aquí?ç
+📝 ¿Qué podés encontrar aquí?
 
     - Consultas SQL útiles para hacer reportes, actualizaciones y más.
     - Parches, pequeños code snippets para añadir funcionalidades a WordPress, PRestashop y más.
